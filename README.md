@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rustyonkeys" alt="rustyonkeys" /></a> </p>
 
-- 🔭 I’m currently working on [Applywise](https://applywise-landingpage.vercel.app/)
+- 🔭 Check my ongoing project [Applywise](https://applywise-landingpage.vercel.app/)
 
 - 🌱 I’m currently learning **RAG, Deeplearning, Langgrapgh**
 
