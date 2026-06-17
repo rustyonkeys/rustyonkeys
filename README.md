@@ -60,7 +60,7 @@
   <tr>
     <td>
       <ul>
-        <li>🔭 I'm currently working on <a href="https://applywise-landingpage.vercel.app/">Applywise</a></li>
+        <li>🔭 Check my ongoing project <a href="https://applywise-landingpage.vercel.app/">Applywise</a></li>
         <li>🌱 I'm currently learning <strong>RAG, Deep Learning, and LangGraph</strong></li>
         <li>👨‍💻 My projects live at <a href="https://kirthishetty-portfolio.vercel.app/">kirthishetty-portfolio.vercel.app</a></li>
         <li>💬 Ask me about <strong>Python, ML, Flutter, Firebase, and scalable app architecture</strong></li>
